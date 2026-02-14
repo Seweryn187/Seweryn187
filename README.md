@@ -32,9 +32,9 @@ SSR • Lazy Loading • Code Splitting • Lighthouse Optimization • SEO for 
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seweryn187&show_icons=true&theme=github_dark&count_private=true)
+![GitHub stats](https://stats-seweryn-dev.vercel.app/api?username=Seweryn187&show_icons=true&theme=github_dark&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seweryn187&layout=compact&theme=github_dark)
+![Top Langs](https://stats-seweryn-dev.vercel.app/api/top-langs/?username=Seweryn187&layout=compact&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Seweryn187&theme=github_dark)
 
@@ -42,4 +42,4 @@ SSR • Lazy Loading • Code Splitting • Lighthouse Optimization • SEO for 
 
 ## 📫 Contact
 
-[LinkedIn](www.linkedin.com/in/seweryn-cholewa)
+[LinkedIn](https://www.linkedin.com/in/seweryn-cholewa)
