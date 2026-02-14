@@ -32,7 +32,7 @@ SSR • Lazy Loading • Code Splitting • Lighthouse Optimization • SEO for 
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://stats-seweryn-dev.vercel.app/api?username=Seweryn187&show_icons=true&theme=github_dark&count_private=true)
+![GitHub stats](https://stats-seweryn-dev.vercel.app/api?username=Seweryn187&show_icons=true&theme=github_dark&count_private=true&cache_seconds=0)
 
 ![Top Langs](https://stats-seweryn-dev.vercel.app/api/top-langs/?username=Seweryn187&layout=compact&theme=github_dark&count_private=true&cache_seconds=0)
 
