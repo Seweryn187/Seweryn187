@@ -7,7 +7,7 @@ I focus on writing clean, maintainable code and improving real-world Core Web Vi
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 **Frontend**
 Angular • TypeScript • RxJS • NgRx • SCSS • HTML5
@@ -20,7 +20,7 @@ SSR • Lazy Loading • Code Splitting • Lighthouse Optimization • SEO for 
 
 ---
 
-## 📌 What I Care About
+## What I Care About
 
 - High performance Angular applications
 - Clean architecture and modular design
@@ -30,7 +30,7 @@ SSR • Lazy Loading • Code Splitting • Lighthouse Optimization • SEO for 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub stats](https://stats-seweryn-dev.vercel.app/api?username=Seweryn187&show_icons=true&theme=github_dark&count_private=true&cache_seconds=1800)
 
@@ -40,6 +40,6 @@ SSR • Lazy Loading • Code Splitting • Lighthouse Optimization • SEO for 
 
 ---
 
-## 📫 Contact
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/seweryn-cholewa)
