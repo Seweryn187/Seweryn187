@@ -30,14 +30,6 @@ SSR • Lazy Loading • Code Splitting • Lighthouse Optimization • SEO for 
 
 ---
 
-## GitHub Stats
-
-![Top Langs](https://stats-seweryn-dev.vercel.app/api/top-langs/?username=Seweryn187&layout=compact&theme=github_dark&count_private=true&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Seweryn187&theme=github_dark)
-
----
-
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/seweryn-cholewa)
